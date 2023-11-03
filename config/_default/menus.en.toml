@@ -27,6 +27,10 @@
  pageRef = "posts"
  weight = 20
 
+[[main]]
+ name = "About"
+ pageRef = "about.md"
+ weight = 30
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
