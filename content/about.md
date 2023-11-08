@@ -1,11 +1,26 @@
 ---
 title: "About"
-layout: "simple"
+layout: "background"
+showDate: false
+showDate : false
+showDateUpdated : false
+showHeadingAnchors : false
+showPagination : false
+showReadingTime : false
+showTableOfContents : true
+showTaxonomies : false 
+showWordCount : false
+showSummary : false
+sharingLinks : false
+showEdit: false
+showViews: false
+showLikes: false
+layoutBackgroundHeaderSpace: false
 ---
 
 ## Who
 
-Hey! This is Juan, a fan of software engineering, automation and getting things done. You can check out my background in the [CV]({{< ref "/cv" >}}) page.
+Hey! This is Juan, a fan of software engineering, automation and getting things done. You can check out my background in the [Resume]({{< ref "/resume" >}}) page.
 
 Some of the things I'm interested in are:
 

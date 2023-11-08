@@ -16,21 +16,14 @@
  weight = 10
 
 [[main]]
- name = "Tags"
- parent = "Blog"
- pageRef = "tags"
- weight = 20
-
-[[main]]
- name = "Posts"
- parent = "Blog"
- pageRef = "posts"
- weight = 20
+ name = "Resume"
+ pageRef = "resume"
+ weight = 30
 
 [[main]]
  name = "About"
  pageRef = "about.md"
- weight = 30
+ weight = 100
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
