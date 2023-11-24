@@ -47,8 +47,8 @@ smartTOCHideUnfocusedChildren = true
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
+  showViews = true
+  showLikes = true
   showDateUpdated = false
   showAuthor = false
   showHero = true
@@ -114,13 +114,13 @@ smartTOCHideUnfocusedChildren = true
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyALYfHMgx8meu0nOu8x3CJi4aGNYaTaFSI"
+  authDomain = "mi-web-42a31.firebaseapp.com"
+  projectId = "mi-web-42a31"
+  storageBucket = "mi-web-42a31.appspot.com"
+  messagingSenderId = "722541038344"
+  appId = "1:722541038344:web:29aa5740a581aad59c7abd"
+  measurementId = "G-6GZ90WKLPV"
 
 [fathomAnalytics]
   # site = "ABC12345"
